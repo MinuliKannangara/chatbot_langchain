@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97ccba3c-fdfa-4ee5-839d-542413f399bf" name="Changes" comment="Add a simple chatbot system">
-      <change afterPath="$PROJECT_DIR$/promptWithDynamicInteractions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="97ccba3c-fdfa-4ee5-839d-542413f399bf" name="Changes" comment="Add a prompt template for dynamic interaction">
+      <change afterPath="$PROJECT_DIR$/chatbotWithChatHistory.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +77,7 @@
       <updated>1724073444362</updated>
       <workItem from="1724073446216" duration="1383000" />
       <workItem from="1724084427929" duration="8702000" />
-      <workItem from="1724138078986" duration="1370000" />
+      <workItem from="1724138078986" duration="2870000" />
     </task>
     <task id="LOCAL-00001" summary="Add a simple chatbot system">
       <option name="closed" value="true" />
@@ -88,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724097715020</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add a prompt template for dynamic interaction">
+      <option name="closed" value="true" />
+      <created>1724162810233</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724162810233</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +120,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add a simple chatbot system" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add a simple chatbot system" />
+    <MESSAGE value="Add a prompt template for dynamic interaction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add a prompt template for dynamic interaction" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/chatbot_langchain$chatbot.coverage" NAME="chatbot Coverage Results" MODIFIED="1724094280946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
